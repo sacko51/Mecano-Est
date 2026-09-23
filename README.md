@@ -2,7 +2,7 @@
 
 Application de contrôle de gestion industriel réalisée sur une PME manufacturière fictive de mécanique de précision (**Mécano-Est SAS**). Projet personnel réalisé par un étudiant en Master 2 CGAO. Objectif : mesurer l'impact des choix méthodologiques de calcul des coûts sur la prise de décision (politique tarifaire, gestion des stocks, maîtrise du risque d'exploitation).
 
-Fichiers : [`Dossier1_Mecano_Est_CGAO.xlsx`](./Dossier1_Mecano_Est_CGAO.xlsx) · [`Dossier1_Note_Cadrage_Mecano_Est.docx`](./Dossier1_Note_Cadrage_Mecano_Est.docx)
+Fichiers : [`Dossier1_Mecano_Est.xlsx`](./Dossier1_Mecano_Est.xlsx) · [`Dossier1_Note_Cadrage_Mecano_Est.docx`](./Dossier1_Note_Cadrage_Mecano_Est.docx)
 
 ---
 
