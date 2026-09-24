@@ -21,7 +21,7 @@ Fichiers : [`Dossier1_Mecano_Est.xlsx`](./Dossier1_Mecano_Est.xlsx) · [`Dossier
 |---|---|---|
 | `00_Sommaire` | Cadrage général | Cartographie des livrables |
 | `01_Methode_ABC` | Coûts complets : traditionnel vs ABC (5 inducteurs) | Révision tarifaire de la gamme sur-mesure |
-| `02_Valorisation_Stocks` | Fiche de stock chronologique — FIFO vs PUMP | Arbitrage entre valorisation de bilan et stabilité du résultat |
+| `02_Valorisation_Stocks` | Fiche de stock chronologique : FIFO vs PUMP | Arbitrage entre valorisation de bilan et stabilité du résultat |
 | `03_Seuil_Rentabilite` | Compte différentiel, seuil de rentabilité, levier | Pilotage du plan de charge annuel |
 
 Le classeur est entièrement **piloté par formules** (aucune valeur figée) : changer un volume, un prix ou une charge en entrée recalcule automatiquement les coûts de revient, les marges et le seuil de rentabilité.
