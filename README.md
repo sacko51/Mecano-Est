@@ -1,4 +1,4 @@
-# Dossier 1 — Contrôle de Gestion Industriel : PME Mécano-Est SAS
+# Dossier 1 - Contrôle de Gestion Industriel : PME Mécano-Est SAS
 
 Application de contrôle de gestion industriel réalisée sur une PME manufacturière fictive de mécanique de précision (**Mécano-Est SAS**). Projet personnel réalisé par un étudiant en Master 2 CGAO. Objectif : mesurer l'impact des choix méthodologiques de calcul des coûts sur la prise de décision (politique tarifaire, gestion des stocks, maîtrise du risque d'exploitation).
 
