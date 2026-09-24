@@ -9,7 +9,7 @@ Fichiers : [`Dossier1_Mecano_Est.xlsx`](./Dossier1_Mecano_Est.xlsx) · [`Dossier
 ## Synthèse des enseignements clés
 
 - **Subventionnement croisé majeur** : la méthode traditionnelle (imputation par les heures de MOD) déclarait les deux gammes rentables. La méthode ABC révèle que la gamme sur-mesure détruit de la valeur (**-41,50 € / unité, soit -29,6 %**), subventionnée par la gamme standard (**+26,8 %** de marge).
-- **Résultat global inchangé** : le résultat d'exploitation de l'entreprise (**78 000 €, soit 8,9 % du CA**) est strictement identique entre les deux méthodes — seule la répartition du coût entre les deux gammes change. L'ABC ne crée pas de profit, elle révèle où il se forme réellement.
+- **Résultat global inchangé** : le résultat d'exploitation de l'entreprise (**78 000 €, soit 8,9 % du CA**) est strictement identique entre les deux méthodes, seule la répartition du coût entre les deux gammes change. L'ABC ne crée pas de profit, elle révèle où il se forme réellement.
 - **Impact de l'inflation sur les stocks** : en période de hausse continue du prix de l'acier, la méthode FIFO conduit à un résultat d'exploitation supérieur de **+156,82 €** à celui obtenu en PUMP.
 - **Risque d'exploitation encadré** : seuil de rentabilité à **676 923 €** de chiffre d'affaires (**277 jours d'activité**, soit le 8 octobre), marge de sécurité de **23,1 %** (203 077 € de baisse de volume tolérable).
 
